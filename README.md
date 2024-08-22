@@ -36,7 +36,7 @@ This bot is designed to help users quickly get their Telegram User ID, Username,
 
 5. **Start the Bot:**
     ```bash
-    node index.js
+    node bot.js
     ```
 
 6. **Interact with the Bot:**
