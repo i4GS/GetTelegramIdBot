@@ -2,7 +2,7 @@
 
 A simple Telegram bot that retrieves and displays a user's Telegram ID, Username, and Name when they send the `/id` command. It also provides group details when used in a group chat. This bot is built using the `node-telegram-bot-api` library and supports MarkdownV2 formatting.
 
-## Description
+## Overview
 
 This bot is designed to help users quickly get their Telegram User ID, Username, and Name. In group chats, it additionally displays the Group ID and Group Name. The bot handles messages with the `/id` command and provides neatly formatted responses using MarkdownV2.
 
@@ -48,9 +48,11 @@ This bot is designed to help users quickly get their Telegram User ID, Username,
 To deploy this bot:
 
 1. **Prepare Your Server:**
+
    Ensure you have Node.js and npm installed on your server.
 
 2. **Upload the Files:**
+ 
    Transfer the project files to your server.
 
 3. **Install Dependencies:**
@@ -69,8 +71,11 @@ To deploy this bot:
 ## Dependencies
 
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - A Node.js module to interact with the official Telegram Bot API
+  ```bash
+    npm install node-telegram-bot-api
+    ```
 
 
-## Contact
+## Contact Me
 
-For any questions or suggestions, please reach out to admin@i4.gs or open an issue on this [GitHub repository](https://github.com/i4GS/GetTelegramIdBot).
+For any questions or suggestions, please reach out to admin@i4.gs or open an issue on this [GitHub repository](https://github.com/i4GS/GetTelegramIdBot). :)
