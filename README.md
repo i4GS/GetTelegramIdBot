@@ -71,9 +71,10 @@ To deploy this bot:
 ## Dependencies
 
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - A Node.js module to interact with the official Telegram Bot API
+  
   ```bash
-    npm install node-telegram-bot-api
-    ```
+  npm install node-telegram-bot-api
+  ```
 
 
 ## Contact Me
