@@ -79,4 +79,4 @@ To deploy this bot:
 
 ## Contact Me
 
-For any questions or suggestions, please reach out to admin@i4.gs or open an issue on this [GitHub repository](https://github.com/i4GS/GetTelegramIdBot). :)
+For any questions or suggestions, please reach out to itsmason33@gmail.com or open an issue on this [GitHub repository](https://github.com/i4GS/GetTelegramIdBot). :)
